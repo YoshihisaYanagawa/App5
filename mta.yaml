@@ -1,7 +1,7 @@
 _schema-version: '3.1'
 ID: Apps5
 version: 1.0.0
-description: "A simple CAP project."
+description: "A simple CAP projects."
 parameters:
   enable-parallel-deployments: true
 build-parameters:
